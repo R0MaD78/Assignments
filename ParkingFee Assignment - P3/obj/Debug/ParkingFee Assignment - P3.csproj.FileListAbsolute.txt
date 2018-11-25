@@ -1,0 +1,6 @@
+C:\Users\Adrian\Documents\TAFE\3PRB Programming Basics Using C#\Assignment Files\ParkingFee Assignment - P3\ParkingFee Assignment - P3\bin\Debug\ParkingFee Assignment - P3.exe.config
+C:\Users\Adrian\Documents\TAFE\3PRB Programming Basics Using C#\Assignment Files\ParkingFee Assignment - P3\ParkingFee Assignment - P3\bin\Debug\ParkingFee Assignment - P3.exe
+C:\Users\Adrian\Documents\TAFE\3PRB Programming Basics Using C#\Assignment Files\ParkingFee Assignment - P3\ParkingFee Assignment - P3\bin\Debug\ParkingFee Assignment - P3.pdb
+C:\Users\Adrian\Documents\TAFE\3PRB Programming Basics Using C#\Assignment Files\ParkingFee Assignment - P3\ParkingFee Assignment - P3\obj\Debug\ParkingFee Assignment - P3.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Documents\TAFE\3PRB Programming Basics Using C#\Assignment Files\ParkingFee Assignment - P3\ParkingFee Assignment - P3\obj\Debug\ParkingFee Assignment - P3.exe
+C:\Users\Adrian\Documents\TAFE\3PRB Programming Basics Using C#\Assignment Files\ParkingFee Assignment - P3\ParkingFee Assignment - P3\obj\Debug\ParkingFee Assignment - P3.pdb
